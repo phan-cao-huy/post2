@@ -1,0 +1,28 @@
+.heading {
+  font-size: 40px;
+  font-weight: bold;
+}
+.title {
+  background-color: rgba(10, 130, 235, 0.644);
+  color: rgb(31, 31, 175);
+  font-size: xx-large;
+}
+.container {
+  display: flex;
+}
+.content {
+  width: 70%;
+}
+.imgage {
+  width: 30%;
+}
+img {
+  width: 50%;
+}
+span {
+  color: rgb(92, 92, 225);
+  font-weight: bold;
+}
+.highlight {
+  background-color: rgb(171, 169, 166);
+}

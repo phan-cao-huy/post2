@@ -1,0 +1,32 @@
+h1 {
+  color: #ef0e0eeb;
+  font-style: normal;
+  font-family: "Times New Roman", Times, serif;
+  text-transform: lowercase;
+  text-align: center;
+  font-size: 25px;
+}
+
+h2 {
+  color: black;
+}
+p {
+  color: black;
+  font-style: 24pt;
+}
+a {
+  color: blue;
+  font-style: normal;
+  font-size: 30px;
+}
+.special {
+  font-style: italic;
+  font-weight: bold;
+  color: blue;
+}
+.modern {
+  background: #a78282eb;
+}
+.red {
+  color: #d10e0eeb;
+}
